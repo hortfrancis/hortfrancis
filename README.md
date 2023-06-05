@@ -39,6 +39,8 @@ I live in Norwich, UK.
   - A frontend web app, using React and Redux. 
 - [**To Do App**](https://github.com/hortfrancis/to-do-app)
   - A frontend web app, using React and Redux.
+- [**OpenAI API Examples**](https://github.com/hortfrancis/openai-api-examples)
+  - JavaScript code snippets to query AI large language models using OpenAI's REST API, using Node.js.  
 - [**SerpentEase**](https://github.com/hortfrancis/serpentease)
   - A web presence for an augmented reality app that helps you overcome your fear of snakes!
 - [**FileStruc Notation**](https://github.com/hortfrancis/filestruc)
