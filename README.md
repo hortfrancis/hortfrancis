@@ -60,7 +60,7 @@ I currently live in Norwich, UK.
 - 🔒 I studied **Cyber Security** at a postgraduate level at the University of East Anglia. 
 - 🎮 I studied **Games Art & Design** for my undergraduate degree at Norwich University of the Arts
 
-## Projects 
+## Full Projects 
 
 - [**Laravel Reflection**](https://github.com/hortfrancis/laravel-reflection)
   - Full-stack 'company management app' built in Laravel (PHP) that applies CRUD operations and RESTful actions on companies and employees, stored in a MySQL database. Blade components with Tailwind CSS render the user interface.
@@ -72,6 +72,11 @@ I currently live in Norwich, UK.
   - A web user interface for manipulating a cash balance, built in React, with Redux for state management. Along with adding or subtracting an amount to the balance, the user can add interest at a fixed rate of 5% or apply a charge to the balance at a fixed rate of 15%. 
 - [**To Do App**](https://github.com/hortfrancis/to-do-app)
   - Front-end application using React, with Redux for state management. Users can add, edit, and delete tasks, and can mark tasks as 'done'. 
+
+## React demo projects
+
+- [**`useState`** demo](https://codesandbox.io/p/sandbox/react-usestate-demo-vjnx36?file=%2Fsrc%2FApp.js)
+  - This project demonstrates my knowledge of `useState` with function components in React. In `App.js` are two additional components: a counter and a 'controlled input'. (Hosted on CodeSandbox)
 
 ## Generative AI 
 I specialise in using: 
