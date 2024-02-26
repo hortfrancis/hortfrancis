@@ -78,7 +78,9 @@ I currently live in Norwich, UK.
 - [**`useState`** demo](https://codesandbox.io/p/sandbox/react-usestate-demo-vjnx36?file=%2Fsrc%2FApp.js)
   - This project demonstrates my knowledge of `useState` with function components in React. In `App.js` are two additional components: a counter and a 'controlled input'. (Hosted on CodeSandbox)
 - [**`useEffect`** demo](https://codesandbox.io/p/sandbox/react-useeffect-demo-6pg5g6?file=%2Fsrc%2FApp.js)
-  - Count the pineapples! This simple game demonstrates how to trigger side effects in a function component's logic when a stateful variable is updated, with the `useEffect` hook. In `App.js` is another component, `<Pineapples />`, that contains the game's logic. (Hosted on CodeSandbox) 
+  - Count the pineapples! This simple game demonstrates how to trigger side effects in a function component's logic when a stateful variable is updated, with the `useEffect` hook. In `App.js` is another component, `<Pineapples />`, that contains the game's logic. (Hosted on CodeSandbox)
+- [React **Routing** demo](https://codesandbox.io/p/sandbox/react-router-demo-kry8lz?file=%2Fsrc%2FApp.js)
+  - A demonstration of how to implement client-side routing in React. Navigate between the pages and watch the URL in the address bar change. (Hosted on CodeSandbox) 
 
 ## Generative AI 
 I specialise in using: 
