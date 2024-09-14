@@ -91,6 +91,7 @@ I specialise in using:
 
 ## Helpful educational resources
 
+- [Lemon Poem Generator tutorial](https://github.com/hortfrancis/lemon-poem-generator)
 - [Vim Cheatsheet for Git Merges](https://github.com/hortfrancis/vim-cheatsheet)
 - [Code snippets from SCS guided learning code-along on the OpenAI API in Node](https://github.com/hortfrancis/scs-guided-learning-openai-api)
 
