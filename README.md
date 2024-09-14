@@ -4,23 +4,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hortfrancis) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hortfrancis) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hortfrancis/) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/hortfrancis/)
 
-
 ---
 
 👋
-
-I am a Tech Trainee with [La Fosse](https://www.lafosseacademy.com/), currently looking forward to an exciting placement with a technology partner 🚀
 
 I write articles to help people use new technologies: [medium.com/@hortfrancis](https://medium.com/@hortfrancis)
 
 I am a strong self-directed learner: [teamtreehouse.com/profiles/hortfrancis](https://teamtreehouse.com/profiles/hortfrancis)
 
 I love experimenting with CSS in the browser: [codepen.io/hortfrancis](https://codepen.io/hortfrancis/) 
-
-I currently live in Norwich, UK. 
-
-- _Currently learning:_ **React**, **Express**, **Postgres**, **Python & Flask**, **Docker**
-- _Currently building:_ **Node** spikes to investigate how to integrate language models via the **OpenAI API** into web applications. 
 
 ## Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
